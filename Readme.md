@@ -218,3 +218,7 @@ deactivate
 Duplicate Data Checker Utility
 
 Python + Pandas + OpenPyXL + python-docx
+
+# .ENV
+INPUT_FOLDER=INPUT_FOLDER_PATH
+OUTPUT_FOLDER=OUTPUT_FOLDER_PATH
